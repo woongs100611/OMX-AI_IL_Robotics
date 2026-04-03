@@ -1,5 +1,5 @@
 # OMX-AI_IL_Robotics
- 🔗 [ROBOTIS OpenMANIPULATOR-X 공식 페이지](https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/)
+ROBOTIS OMX 공식 페이지](https://ai.robotis.com/omx/introduction_omx.html)
 
 # OMX-AI_IL_Robotics
 
